@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report a bug or error in the site
-title: 'BUG Title - '
+title: ''
 labels: bug
 assignees: ''
 
